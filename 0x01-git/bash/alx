@@ -1,5 +1,1 @@
-#!/bin/bash
-echo "ALX"
-__EOF __
- git add .
-git commit -m 'My third commit'
+ALX school is so cool !
